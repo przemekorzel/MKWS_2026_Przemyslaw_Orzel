@@ -1,4 +1,4 @@
-# MKWS 2026 – Thermochemical Optimization of a LOX/LH2 Rocket Engine
+# MKWS 2026 – Comparative Analysis of Expansion Models in LOX/LH2 Rocket Engines
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![Cantera](https://img.shields.io/badge/Cantera-3.0+-orange.svg)
