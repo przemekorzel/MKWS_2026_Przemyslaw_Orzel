@@ -12,11 +12,6 @@ This repository contains the computational research conducted for the **"Compute
 * [Scientific Scope](#-scientific-scope)
 * [System Assumptions](#-system-assumptions)
 * [Requirements](#-requirements)
-* [Usage](#-usage)
-* [File Structure](#-file-structure)
-* [Short summary of Results](#-summary-of-results)
-* [Technical Report](#-technical-report)
-
 ---
 
 ## 🔬 Scientific Scope
