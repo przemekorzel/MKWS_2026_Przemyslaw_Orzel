@@ -1,0 +1,4 @@
+cantera>=3.0.0
+numpy
+pandas
+matplotlib
